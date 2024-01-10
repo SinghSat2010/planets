@@ -3,4 +3,4 @@ Docked to International space station and ready for a sling to mars
 Approaching mars orbit
 Ready to touchdown on mars
 add from rstudio
-
+my second change to mars.txt
